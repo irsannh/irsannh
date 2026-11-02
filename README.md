@@ -12,6 +12,8 @@ I enjoy building web and mobile applications, exploring new technologies, and co
 - 🛠️ Enjoy building practical applications and solving problems through code.
 
 ## Tech Stack
+**Language**
+![Languages](https://skillicons.dev/icons?i=cpp,java,php,js,ts,go,py,dart,html,css)
 
 <!--
 **irsannh/irsannh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
