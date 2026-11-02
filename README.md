@@ -54,11 +54,11 @@ I enjoy building web and mobile applications, exploring new technologies, and co
 
 ## Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irsannh.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irsannh/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/irsannh)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@irsannh8)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irsannur.h@gmail.com)
+- Website: [irsannh.my.id](https://irsannh.my.id)
+- LinkedIn: [Irsan Nur Hidayat](https://www.linkedin.com/in/irsannh/)
+- Twitter / X: [@irsannh](https://x.com/irsannh)
+- Threads: [@irsannh8](https://www.threads.net/@irsannh8)
+- Email: [irsannur.h@gmail.com](mailto:irsannur.h@gmail.com)
 
 <!--
 **irsannh/irsannh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
