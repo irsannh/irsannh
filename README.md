@@ -49,11 +49,10 @@ I enjoy building web and mobile applications, exploring new technologies, and co
 
 ## Connect with Me
 
-- Website: [irsannh.my.id](https://irsannh.my.id)
+- Website: [https://irsannh.my.id/en/contact](https://irsannh.my.id/en/contact)
 - LinkedIn: [Irsan Nur Hidayat](https://www.linkedin.com/in/irsannh/)
 - Twitter / X: [@irsannh](https://x.com/irsannh)
 - Threads: [@irsannh8](https://www.threads.net/@irsannh8)
-- Email: [irsannur.h@gmail.com](mailto:irsannur.h@gmail.com)
 
 <!--
 **irsannh/irsannh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
